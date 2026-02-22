@@ -1,5 +1,5 @@
-<img src="https://static.wikia.nocookie.net/omniversal-battlefield/images/0/0b/Gold_Ship.webp/revision/latest?cb=20250822223654" width="200" align="right" >
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/7/77/Gold_Ship_WF.png" height="500" />
 
-<dl><dd><dl><dd><dl><dd><dl><dd>
-cool
-</dd></dl></dd></dl></dd></dl></dd></dl>
+<p align="center">
+  the horse is here
